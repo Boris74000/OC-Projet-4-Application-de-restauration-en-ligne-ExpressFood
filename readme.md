@@ -30,9 +30,4 @@ Schémas demandés :
 
 ## Livrables
 
-Diagrammes de cas d’utilisation
-Modèle de données
-Diagramme de classes
-Diagrammes de séquences
-
 Visible [ici](P4_dauvier_charles-boris/P4_01_schema_uml.pdf)
